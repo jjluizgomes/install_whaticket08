@@ -6,5 +6,5 @@ sudo apt install -y git && git clone https://github.com/jnarvaez54/install_whati
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
 ```bash
-cd && cd ./install_whaticket && sudo ./install_instancia
+cd && cd ./install_whaticket08 && sudo ./install_instancia
 
