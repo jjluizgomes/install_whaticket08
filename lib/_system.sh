@@ -36,7 +36,7 @@ system_git_clone() {
   sleep 2
 
   sudo su - owenzap <<EOF
-  git clone https://github.com/jnarvaez54/multiempresas /home/owenzap/${instancia_add}/
+  git clone https://github.com/mateuscdor/whaticket-6 /home/owenzap/${instancia_add}/
 EOF
 
   sleep 2
